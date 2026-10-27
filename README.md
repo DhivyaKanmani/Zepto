@@ -7,7 +7,7 @@ This project analyzes Zepto inventory data using Python for data cleaning and Po
 
 ## Dashboard Screenshot
 
-![Zepto Inventory Dashboard](zepto%282%29.jpg)
+![Zepto Inventory Dashboard](<zepto.jpg>)
 
 ## Key Features
 
